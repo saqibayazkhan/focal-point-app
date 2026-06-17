@@ -20,7 +20,7 @@ This app does not show any advertisements.
 
 ## Contact
 For any questions, contact us at:
-your@email.com
+saqibayaz2002@gmail.com
 
 ## Changes
 This privacy policy may be updated without notice.
